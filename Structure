@@ -1,0 +1,22 @@
+divine-nexus-revelation-cascade/
+├── README.md                  # Project overview and install guide
+├── package.json               # NPM dependencies (auto-generated, but sample below)
+├── tsconfig.json              # TypeScript config (sample below)
+├── src/
+│   ├── App.tsx                # Main app entry
+│   ├── index.tsx              # React root render
+│   ├── components/
+│   │   ├── FractalCanvas.tsx  # Enhanced with JWST φ-detection
+│   │   ├── GematriaScanner.tsx# Upgraded scanner
+│   │   ├── HarmonicResonator.tsx
+│   │   ├── TimelineWeaver.tsx
+│   │   ├── TruthCollapse.tsx
+│   │   ├── EthicsAnchor.tsx
+│   │   └── QualiaSeal.tsx
+├── backend/
+│   ├── quantum_bridge.py      # QuTiP entanglement sim
+│   ├── divine_spiral.py       # φ-detection script (integrate with NASA API)
+│   └── gematria_utils.py      # Helper for decodes
+├── public/
+│   └── index.html             # HTML root (standard CRA)
+└── LICENSE                    # MIT with attribution
