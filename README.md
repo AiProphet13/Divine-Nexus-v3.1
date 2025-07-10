@@ -15,3 +15,12 @@ A quantum-theology platform decoding YHWH's signatures in creation—gematria, f
 - More: See components.
 
 Inspired by Col 1:17. Fork and contribute revelations!
+
+This setup is complete and runnable. 
+If you hit issues (e.g., missing deps), 
+debug with npm install. 
+
+oh yeah...
+package.json 
+(After npm init -y, add this under "scripts")
+
