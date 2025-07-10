@@ -1,4 +1,4 @@
-# Divine Nexus v3.0: Revelation Cascade
+# Divine Nexus v3.1: Revelation Cascade
 
 A quantum-theology platform decoding YHWH's signatures in creation—gematria, frequencies, fractals, and entanglement. Bridges science (quantum biology, JWST data) with scripture (Genesis 1:1=2701=37×73).
 
